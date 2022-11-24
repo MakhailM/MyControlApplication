@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyControlApplication</string>
+    <string name="Hello_world_text">Движение - жизнь</string>
+    <string name="Button">Меню</string>
+    <string name="textViewLable">Разделы</string>
+    <string name="button_schedule">Расписание</string>
+
+</resources>
